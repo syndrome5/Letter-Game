@@ -1,4 +1,4 @@
-package fr.esiea.unique.binome.name.dictionary;
+package fr.esiea.praddaude.dictionary;
 
 /**
  * Created on 16/01/17.
